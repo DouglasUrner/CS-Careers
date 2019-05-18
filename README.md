@@ -18,3 +18,14 @@ Since many of our classes are one semester long, we use this event, in part, to 
   - Theatre: lighting & sound
 
 ## Pathways & Education Required
+
+## Presenters
+
+* College & University Programs
+  - 2-year
+  - 4-year
+  - graduate
+* Apprenticeship
+* Military
+* Employer Sponsered
+* Non-traditional
