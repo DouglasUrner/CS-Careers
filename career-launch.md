@@ -38,7 +38,8 @@ Find something that you are passionate about, or at least that you are curious e
 * Know the differences and benefits of functional resumes
 * The energy that you put into launching your career will be matched by your teachers, managers, and mentors.
 
-[Events and fellowship opportunities for Computer Science students](https://github.com/anu0012/awesome-computer-science-opportunities)
+Resources for finding opportunities:
+* [Events and fellowship opportunities for Computer Science students](https://github.com/anu0012/awesome-computer-science-opportunities)
 
 ## Join the Community
 
