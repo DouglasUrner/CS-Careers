@@ -1,6 +1,8 @@
 # Launching Your Career
 
-From
+This list began with slides from a talk by Patrick of Microsoft Research aimed at helping college professors understand how to help their students prepare to launch their careers. The advice is equally good for targeting internships or college interviews.
+
+Find something that you are passionate about, or at least that you are curious enough about to dive into. The work will be more fun and your interest and passion will come through in your work and the way you present it in interviews. Excitement about a project and commitment to the field are persuasive and compelling.
 
 ## Create A Professional Online Profile
 
