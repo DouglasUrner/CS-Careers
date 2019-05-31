@@ -48,7 +48,7 @@ In positions that would typically be filled by college/university CS program gra
 * Know common data structures and when to use them:
   - List, Array/Vector, Hash table/Dictionary, Tree, Stack, Queue, Priorty queue
 * Know standard algorithms and their runtime complexities:
-  - Binary search, Depth-/breadth-first search, etc.
+  - Binary search, depth-/breadth-first search, etc.
 * Know how a common OS (Linux, macOS, Windows) is organized
 * Backend:
   - SQL and relational database concepts
