@@ -41,6 +41,7 @@ Find something that you are passionate about, or at least that you are curious e
 Resources for finding opportunities:
 * [A list of beginner-friendly projects](https://github.com/MunGell/awesome-for-beginners) - good places to go looking for your first opportunities to contribute to an open source project.
 * [Events and fellowship opportunities for Computer Science students](https://github.com/anu0012/awesome-computer-science-opportunities)
+* [Big Internships](https://www.biginternships.com) - a site with internship listings.
 
 ## Join the Community
 
