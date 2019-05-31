@@ -39,6 +39,7 @@ Find something that you are passionate about, or at least that you are curious e
 * The energy that you put into launching your career will be matched by your teachers, managers, and mentors.
 
 Resources for finding opportunities:
+* [A list of beginner-friendly projects](https://github.com/MunGell/awesome-for-beginners)
 * [Events and fellowship opportunities for Computer Science students](https://github.com/anu0012/awesome-computer-science-opportunities)
 
 ## Join the Community
