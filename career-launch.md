@@ -1,5 +1,45 @@
 # Launching Your Career
 
+From
+
+## Create A Professional Online Profile
+
+* LinkedIn
+* GitHub
+  - School projects
+  - Practice problems, experiments, personal projects
+* Work on open source projects
+  - Contributions will show up on your GitHub profile
+  - Ways to get started:
+    - Fix typos in documentation
+    - Improve tutorials and examples (**you** are the audience)
+    - Tackle projects/bugs from the issues list
+    - Check out beginner mentoring (e.g. Drupal office hours)
+* Create an online portfolio of design work
+* Connect your GitHub and LinkedIn profiles, and your portfolio to your (online) resume.
+
+## Get Some Experience
+
+* Go for tech internships!
+  - Add them to your resume
+* Look for opportunities to apply your tech skills in a "non-tech" job - TAing? create a website for the class.
+  - Add them to your resume.
+* If you can't put your tech skills to work at a job or internship:
+  - Work on open source software projects (see above)
+  - Work on public coding challenges
+    - Keep the code on GitHub
+  - Volunteer to do tech work for a non-profit:
+    - Create/maintain a web site
+    - Automate boring/repetitive tasks
+    - Build tools to organize and/or analyize data
+    - Add to your resume and GitHub
+* Know the differences and benefits of functional resumes
+* The energy that you put into launching your career will be matched by your teachers, managers, and mentors.
+
+## Join the Community
+
+## Know the Interview Process
+
 ## Entry-level Expectations
 
 In positions that would typically be filled by college/university CS program graduates:
